@@ -1,0 +1,17 @@
+commit 4f675c53b43e55999526633bd91ca9559c310ce6
+Author: EL-HOUSS-BRAHIM <brahim.crafts.tech@gmail.com>
+Date:   Fri Nov 22 15:30:01 2024 +0100
+
+    adding the README and gitignore
+
+commit 7d219651825b7e63731fb84d6ec7ee09627f2534
+Author: EL-HOUSS-BRAHIM <brahim.crafts.tech@gmail.com>
+Date:   Fri Nov 22 12:30:59 2024 +0100
+
+    adding test file to the dev branch
+
+commit 3b58153a550c5c94917944c4e7b0689d63b05dcc
+Author: EL-HOUSS-BRAHIM <brahim.crafts.tech@gmail.com>
+Date:   Fri Nov 22 12:15:29 2024 +0100
+
+    adding the task1 folder and the README.md file
